@@ -1,1 +1,0 @@
-worker: java -jar target/Juke-Box 1.0.jar
