@@ -1,0 +1,13 @@
+{
+  "name": "Juke-Bok V 1.0"
+  "description": "Music Bot for music lover"
+  "Version": "1.0"
+  "main": "Juke-Box 1.0.jar",
+  "scripts": {
+    "start": "node Juke-Box 1.0.jar"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+    "request": "2.01.0"
+  }
+}
